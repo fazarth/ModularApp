@@ -33,9 +33,9 @@ Sebuah **aplikasi generator berbasis Modular Architecture** menggunakan .NET 8 +
 ### 1. Clone Repo dan Buka dengan Codespaces
 
 ```bash
-git clone https://github.com/namamu/AppGenerator.git
+git clone https://github.com/fazarth/AppGenerator.git
 cd AppGenerator
-gh codespace create --repo namamu/AppGenerator --branch main
+gh codespace create --repo fazarth/AppGenerator --branch main
 ```
 
 > Atau langsung klik tombol "Code > Codespaces" di GitHub UI
